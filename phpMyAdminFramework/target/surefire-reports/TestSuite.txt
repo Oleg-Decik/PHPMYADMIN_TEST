@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 29.719 s <<< FAILURE! - in TestSuite
+clickArrowTest(DefaultWebElementsTest)  Time elapsed: 0.94 s  <<< FAILURE!
+java.lang.AssertionError: expected [left: 3px;] but found [left: 240px;]
+	at DefaultWebElementsTest.clickArrowTest(DefaultWebElementsTest.java:34)
+
