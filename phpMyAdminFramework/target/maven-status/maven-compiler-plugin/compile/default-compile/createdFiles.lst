@@ -1,0 +1,4 @@
+Pages\MainPage.class
+DefaultWebElements\DefaultWebElements.class
+Pages\GeneralSettings.class
+Tools\WebDriver.class
